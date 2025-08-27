@@ -8,3 +8,8 @@ In this notebook, we do the following tasks:
  * Finetune BERT-mini on the Wikipedia dataset
  * Run the Wikipedia finetuned model on the class dataset
  * Summarize your findings
+
+# Credits
+Instructor: Philip Ogren
+Semester: Fall 2024
+University of Colorado Boulder

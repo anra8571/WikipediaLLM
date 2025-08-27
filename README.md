@@ -11,5 +11,9 @@ In this notebook, we do the following tasks:
 
 # Credits
 Instructor: Philip Ogren
+
 Semester: Fall 2024
+
+Class: Natural Language Processing
+
 University of Colorado Boulder
